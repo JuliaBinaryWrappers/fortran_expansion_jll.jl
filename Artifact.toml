@@ -379,12 +379,12 @@ os = "windows"
 [[fortran_expansion]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "071f75246ec77f0897fc32b1fe8c57f0adee12fb"
+git-tree-sha1 = "ee93247b276f695bab243515f998afc6395db137"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 libstdcxx_version = "3.4.26"
 os = "linux"
 
     [[fortran_expansion.download]]
-    sha256 = "d7944ede681b7e0b89c57181677bc4dead5a2d1ab23e61aede2c080a10fd0e11"
+    sha256 = "58ab4f0e9d69e71d56e3ea37a12d6616231a9a229888885a972302831922655c"
     url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran5-libstdcxx26-cxx11.tar.gz"
