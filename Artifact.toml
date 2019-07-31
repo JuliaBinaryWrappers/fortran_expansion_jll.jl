@@ -1,383 +1,5 @@
 [[fortran_expansion]]
 arch = "x86_64"
-git-tree-sha1 = "8eacd493431701a6f6cfe655be8b7ec8b290e05d"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "a7877407d1be3795856c7d5758dfd6ad55a98f00ef0dc8e9ad06ba87f70d8e78"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "8756dbe2f8cfe10d99174e2817749b24977c7ecb"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "0997679d7f53bf7d35d76dd70545894fdceb8a5b825bf4d750edc3c3cb363f9a"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "8527a4bae30cb20e63d0873aecb5818779228fdc"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "78b8600d85386e05f4eee701bb6a7cedac55e1cb9d444e165c2a2895acac24a4"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "195c482788a5862a34bcb39cbe5b4cc7a16de802"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[fortran_expansion.download]]
-    sha256 = "80ac8bf3f3d6e251f40fcada0c48d638ed9649ebb1173a204048dc97686e57c8"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "0a00c1b9faa0ad10b9d64eb1d837668f7e3c6a8a"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "b598ac9e5b3627f7391ac5ae7e9c9349658897b2881abf24c95726dc0a8c0b68"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "0dd40cbce2c498469d4acc07b0cadbc85ac6da88"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "d258d7077b27883c0f5323e293b041ebef1195e28bfc14e2b1466a00609d60a4"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "bf75702e7d365d6dfb17538107578c8b0e648cb8"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "5dbefb0fe1c2cf74f30ce54a30d3ac29bb60bbdeb04b82fa27a831c926cb3d45"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "97dcfe81689674283912a1acd88214b0b7d6a66b"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "8f86d0a561464d4e578b0b08d1a916e19590f035ebc6ff1704c264bfb7b3a97f"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "f4f31f25d69e62e22f16b9ad114958c5e5f16de1"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "128cf6a045673d32f4eaa8abb851b4a44e1662071118396aed5f27d407c4aae2"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "powerpc64le"
-git-tree-sha1 = "14686ae16e6839cd62a14fdf2fd33b9431ba595f"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "e7cbfe7e5d21a5c4044018b2108e245ae94e7cd8ef954c7921ee0687e7aca5ec"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "7fc5d85189c3fbe5b1693bf8cd37aaf96e07e4c2"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "c7e43cf45c32c670f5f94354b9d4afb5889ecc88d2359d841bb36d3419272080"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "9549ea877c4046d2f6ffa5d9cfad14aaf9969d6a"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "20bf0daa260b0881d82f6f47f456b1cb74c1e89cb62774433ecc2c61f64fde8a"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "b92baef63774b9d4ed66999a7e42c1e91c58bb96"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "ba86b3e404b3c11ecdd01e020f1f03ef6b7b393b993e56dd3cc1ad9d54f1b667"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "d4036bb6d3d841ab6368423b0b787b5924565a43"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[fortran_expansion.download]]
-    sha256 = "f7634817c5817d314efa9a9ead05b982e61f2a422c4ec19c6f436ca2fe9f95e1"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "7b39f166e4140614d3b598523c26c7406fdb8d1a"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[fortran_expansion.download]]
-    sha256 = "201b0b89079a906b020eca95aa9b26bfa3f1c769b0b6463c52e943e2f29527ef"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "d1f98159197263f61bc6009e7e1b0c767f14c469"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "8641f61bf130ae77d2f86cf8bd8b5c7fdd397a98a3b848240758f98a9f5a2773"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "3a5077f9540a10c120e92e47499c87421ad68026"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "3c8769adce3dc98718409ce3330d6f6781fa6fab322ec03fada478398938df72"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "ed5c0156fe8bbc5ef7bb0ab1eeec411d68453b51"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[fortran_expansion.download]]
-    sha256 = "31548c1642c85d4925227cb592df6ab0d5f43279dec8d0eb1ab20fcd4ecf9a89"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "d5af07463cb791eecbc8dac242d6b2ce2dce154e"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "83d492b556f7fd110b6fbb933f2e84c73bdd94da3d5e3855a567150b21c61586"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "5a9f4f3fa90243850eb4dba1f094b0b9a2e71574"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "0f201612f3b9fd2d5d40ce0fde71342f3aeeea10e3fc3caba953815fb0e9c446"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "47ca7c5c7cca428f5e311be1860d447e26e44da0"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "7f2a6dd10078b826404befb3008dbd0c8c2ed2e8be198acffde853db736e9db4"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "40bf0963d8f1c84a41afa0b5358ed2869528dc66"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[fortran_expansion.download]]
-    sha256 = "dfb6725f32f11e095ff5fc1aeda71880e164b3f78901474b455746a4cc47ecfe"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "powerpc64le"
-git-tree-sha1 = "3d33932f91082669e3e393e3f9eec0c0d6f2bf04"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "1c175ff3ec66bd2a11e672091ba2e3a612c9ac6841750dc37bdd05a10cdf96c4"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "1dc99408ac5e3ce1cf87c7b36151f39a8d9729c6"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "5df28e8f911b64cd7190c8314f5a6bd59a8ac19a1b08c823098bc9afab1aecc5"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "bda4af9825e959e959af8eedff3b602fb1cbe2af"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "f29420785c00f6d461360b33b114b317a577e7748a33a70a1d1e0259eaee9106"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "16fccaa82f444a40c8751c48952586ae19a7bef0"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "f229697078896e53f55bc3e96868a36eb7b06dd650d480366287f8366a41efc3"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "06ec915f5aaf4a6261090887f7850356e35933c3"
-libgfortran_version = "5.0.0"
-os = "freebsd"
-
-    [[fortran_expansion.download]]
-    sha256 = "0199a5edbd2c059983044b203f68be521583f8e4aea41e27584980fe0fc5e584"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "87d7330ffb2af10ba8d587d812e5605e9f6b27cc"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "38be6473f43210f417505b10336fc52a25bbc691367f56eeda5efda96975365b"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "2b1daca646f1e261e12d7e577f80518544600966"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "3a460a8dc38a786b1d1f692d6e3499a3d5670e454ead191aff7b05ba30b9aaf5"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "armv7l"
-git-tree-sha1 = "91cdf6c3231e16529caba87dbad56a83b49a7887"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "cff9665f7d431d5340871a361dbc8698e50c953b505ddd35f17acd3e4cd63357"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "545851bd077408283f0e2dba7d36d0d36dec4983"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "30de256bdf85a5ef2d7c32fa19b205e80f220021ebc598257cabdd10a79733f7"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "powerpc64le"
-git-tree-sha1 = "361ccced12a29d6a7e9f64d22142a6f7f98d42e6"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "c94f6c0194afcacc34c476d0bca8e56dd0598be1c0c8f5ed2c402fd44c1c49b7"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "aarch64"
-git-tree-sha1 = "d4e40d31aebe8efc7bf33b63eaa0790109b31dd3"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "a9b68600d78346678ea67b1108840899a51231c3ed1af09fcc5f23ee315c88f5"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "ef8778ec195fac563b18d60ba25f44d4af7d5492"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "cba33cde2bb503e7c07f312378457da54cdbb90a639ebeadabd708b38e57477d"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran4.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "5a6de37b40d222c39a427b2aa080c755065f3122"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "2982842eaac048310e487f0b3b8d9334bd4ab45162a387544af0460f6b146a04"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "5103ddaf049701ffcaf82bdf48db3b10a9713fa2"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "e525f5b8f14d7414311de9d5e02a2dbb65aec5333deb86a8932f702663738f06"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "6839387496e033e8c360cfbb5844581da8ea7ee9"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "f4b3b81c230ed8faa0c617a6e5643507213d891515fed97fa441cd018edda3a7"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
-git-tree-sha1 = "8aa3ab41d699e4e8bfba3d5a6cb530be9fe07b68"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[fortran_expansion.download]]
-    sha256 = "01f882294d330ef9803768dc7df99cad4e920c6f8313fc8505e202b4c653deae"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran3.tar.gz"
-[[fortran_expansion]]
-arch = "i686"
-git-tree-sha1 = "c3aebacaa4c4db13626d2a5af671552e46de396b"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[fortran_expansion.download]]
-    sha256 = "c43a48e8a784b5e78f968a02b1a690f41d71f6504c77008f280936a12b025022"
-    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran5.tar.gz"
-[[fortran_expansion]]
-arch = "x86_64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "904a31df4833dae5ad14ecf51bb96f2d14246315"
 libc = "glibc"
@@ -388,3 +10,381 @@ os = "linux"
     [[fortran_expansion.download]]
     sha256 = "ddc3287dcd79af14731430ccfdb1d69eec2274cd055b705b52596067570c715d"
     url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran5-libstdcxx26-cxx11.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "b0ea4011a7d948e27d4ae7e62ec1834b79206f6a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "fe9667379b4804b105dc89dd93741a0620eab95076084c085d2f7d97cc152c54"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "4da59e5d9deaec17f0e4b69efaf3eb405e4190d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "a77bc3c19183a8dc75be211ecaaa4b911c5cf35da9cddbe2c97f4e1f69a623e0"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "e535c6619b4b1df1c8e888188c0016db3a3b19d2"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "b8d7915b5d080670467f88b9086e9b037e5382ee3e8dc58b835d601d436abcd2"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "61fa64523658443ae15dfaf64b9b058a4b16c4e3"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "d16dd4a4a6e880c9de7475f320448e47c3fb63308e0817a3178ac4909253bcc6"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "adec27c7f2bf7349aa988ab3405053e4733b8297"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "675b4bcd6ec4352a744e391527353b2d5c7941d706a2fc6cc8aed3183d9f692d"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "585d4eadaa89b2e1f4cf4d67918829800762d3f8"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "1ddf678e772e768172638c264de2b3ff3ade7435164479740ca14b3d543a90e1"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "powerpc64le"
+git-tree-sha1 = "3e36df32744cb33e0050b513c996c837d7d76fc5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "eafc7257fde3bac85ea72e1dab4f03828c2e36b15d89530e92becc2c8c6efa46"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "77df09f9ddcf8dddcda2fd05f325a86629e12070"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "c087e59c470108fa5127d0fac14cc0e58f12f6924e28c8f1ff245672f8423255"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "25a81fe7906a898b1f433881cb7a935de4f7adcb"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "6df7780e349c6dff5cba580a6d77083c828f22760fbadb97bf97b0e7873db3e2"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "30dd1422a7c198340a59b869226d01764d0c9cef"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "c15ae4bb188ac5e93f962af5d3c4026a0a9a023900182b17e4215ee4e08bed34"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "04f829a7aca16ff1ec80b2ac1596d401a7ae2b8f"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[fortran_expansion.download]]
+    sha256 = "b4ea34f9c5d67b0a9256d080576d443267e8b9bea48a9a921c903868762895a3"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "23cb2516f632a96910732a3c1ab141e94c778b5f"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "308eedb30876fa50cff8871e4515d72b3eed842bb623f50efa0529b57d8386f6"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "80e17b304e058b54507403ba10c297b8862dbe0f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "d517417f36f295af513edabea9a60d3b16a34675da702091d17c79ddcf5797c5"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "f0cd29f49171d20a601e2e287ac0eb3b5d3aa92d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "951e947481228eacacb532a8d3a9d4714ac1862cbf8e978b3aeaae81b8fe667a"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "fa8d2e42e344ff03b15d339537c3d3f59fefcecb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "f094f711423a8543a418a9147ad9d088f078f8dda43bad940a45d956dd93ed76"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "c41ba2423a99637fdbf03ac1c6983616bd21c913"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[fortran_expansion.download]]
+    sha256 = "1c09a62819d10263908210f3a8a16d595d6160b28a6cf64151842d1580db0376"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "9cbaf7bc3f159254dac384ea41f6c9e9abc38476"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "94fca0d2ea855508d8d06df94f23b16dc4a100bfa764bcdf58159fc06eabaec3"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "69ad1375fdba841a8ff4325a2ce08e685baa5e0b"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "c690e5d3048784ea2e8afa8a7148951e7c235e26c86324b3bd1a7fe10466c36f"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "6f7e7c7f972eee8a18543a1bc194e150b950ddef"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "8ee57d4150c223e31fd87b24e88e24838ada2d7c7ff3ce764ed2ba33f64530b5"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "powerpc64le"
+git-tree-sha1 = "3642f4c6b2061b040efeb717d8ff584ff5da69c2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "52ff30da7ec9c790540039a3b0fa661715901abc17d6ccebac574a550ef9bdc2"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "899ce7ad33db902264b1a17fd730f03301d328e0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "e5982fd25888617bf59143ee0ae85bcb31e53d8777a5db74f5b54bb683fd80d6"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "00d250d1e4257dbd8c531322c94095e61e8b03c0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[fortran_expansion.download]]
+    sha256 = "2dcc2c774485aad1820c8809b3f8cc6da494a3e11f7c9cf5877c9b024c8caa43"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "18de57ad5d5ea56667449254a70daff2413663cb"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[fortran_expansion.download]]
+    sha256 = "7b8582de5ae0a16c79dcedde651d9a905f776bba0c3c73d2dd640e8b46c9eca3"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "8f74b28c103e0e016fcd5e0938f28b09466e7d37"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[fortran_expansion.download]]
+    sha256 = "8555e75cb130e5a5750f07e205c45ea71e67ced487b7384a659d492669152317"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "powerpc64le"
+git-tree-sha1 = "c408b7ac916601596e4cfa5f3a63b549ec7656d3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "994859c0a7508f1188e08847964dcac806b288c914820d045238c10d32e691d3"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "5047d794ee1dc35f09ea102f0a728abc9037c211"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "8cf3a454760a50f287d4b18f2d5d120d8ed2fa8d9f62f5b270048c6d6f60e8b5"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "a0a5eea6f5437b1d1289e98a097f8a33efa75a3a"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[fortran_expansion.download]]
+    sha256 = "4724d1dec07a1127fd5dcf42362ec7c46323f0bda52f6f2779ad907aaf6a4397"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "977e25bd948bfdf196616418d8e96f253ba4301c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "014b983ea4821159314cb613b4f8f78038f5f69590e4369c0f88eb7632d6f80d"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "e5b6ed1fb2afdab44dba4d5788047e62e36bfd61"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "5f87d177c6d0b2726736b00c27746392d405a8337fd0da804bb50d498a2d2a85"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-w64-mingw32-libgfortran5.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "55ffc81c9d25fbe9db471fb84678952bcc713617"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[fortran_expansion.download]]
+    sha256 = "7ea0c9a6f1db4ac1036cff6f21e60b42dc8cf531240d16ea8708ea7faff1e980"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "951ac30bfe332b83b888bb74f41d1399c7869914"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "e108f075abd4275c6448fff8f6031150069e36e9f4fd2318a873e80f737b3754"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "f5dc8ceab9f8165575cd7b8a5d271733e4d86981"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "55114fe425f4f9b6b344b01853be6d337cd0e480ab49821b148037655c0f0857"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "aarch64"
+git-tree-sha1 = "e43c472b51d6c904b39ca609659c84640af99a1c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "4b36a3a29c819da838fc6ad27dde415bacd612d2b51040bbf0699fdb85fbd3db"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.aarch64-linux-musl-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "x86_64"
+git-tree-sha1 = "9cf54f7dd322f6f19158ae3b8fb517852d04c701"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "a28c9b611de3b95d0a71b3706e59ce7166c0e41a288e21878f3eda65f05b9f7b"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.x86_64-linux-musl-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "ba8ec4a94ef2848f164dca4304adc65aa77ccbab"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "f66f9e74465d735df4720cd7e395dd09e5092f32fe3cd24feb301f3ed72e93b3"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-gnueabihf-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "4e4790ff3dc7505ca6ad049ab8bb9c509231e91c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "a62cde132655606b0db6bc88263ae4ae527cd0c177af8e121ec483421e7bd419"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-gnu-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "d60b3afafb0d05d4d7fbb41a0db5fd1e7dca1c52"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "dc7cae0bf40e553b6e343e804376855728cd1ff2e6dccb2df751de4ae7be0410"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran4.tar.gz"
+[[fortran_expansion]]
+arch = "i686"
+git-tree-sha1 = "6d998b4a73ab582fa1f9c8fca8a2e06b6e62600d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "61168fb11459ea9c49ac943f248a2dcdfcff807323f273de54168361ef6115fc"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.i686-linux-musl-libgfortran3.tar.gz"
+[[fortran_expansion]]
+arch = "armv7l"
+git-tree-sha1 = "f5b6322396fd4e78ac1cd54c5b0c4b8006d65dab"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[fortran_expansion.download]]
+    sha256 = "5fac28b830c05ea5d3cfda3eb5c65da6623d7a589b8070370a76380f8cdf2b61"
+    url = "https://github.com/JuliaBinaryWrappers/fortran_expansion_jll.jl/releases/download/fortran_expansion+v0.1.3+0/fortran_expansion.v0.1.3.arm-linux-musleabihf-libgfortran5.tar.gz"
