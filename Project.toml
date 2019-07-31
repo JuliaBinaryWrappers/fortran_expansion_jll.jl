@@ -1,5 +1,5 @@
 name = "fortran_expansion_jll"
-uuid = "b43a38f9-5f77-5cc0-9128-2adbdc49721f"
+uuid = "1d2ff61f-8d47-5b51-8a77-85ab7d3b132f"
 version = "0.1.3+0"
 
 [deps]
